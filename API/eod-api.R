@@ -30,3 +30,6 @@ getMfNavByDateRange<-function(schemeCode, startDate, endDate){
 	retXts<-xts(data[, -1], as.Date(data$AS_OF))
 	return(retXts)
 }
+
+myts<-getMfNavByDateRange("nifty",'01/01/2016','01/09/2016')
+plot(myts)
