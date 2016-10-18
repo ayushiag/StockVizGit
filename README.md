@@ -1,5 +1,5 @@
 # StockVizGit
-Analyze Indian markets with R
+Analyze  Indian markets with R
 
 Most DIY quants find it difficult to subscribe to Indian market data, set up a database, jobs to download, etc. If you are a hobbyist programmer, you shouldn't be rquired to go through all this before you even get started.
 
